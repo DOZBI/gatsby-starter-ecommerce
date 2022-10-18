@@ -4,16 +4,16 @@ import {Segment, Container, Grid, List, Header} from 'semantic-ui-react'
 
 const twitterLink = (
   <a href="https://twitter.com/parmsang" alt="twitter link">
-    Twitter
+    
   </a>
 )
 const facebookLink = (
   <a href="https://facebook.com/" alt="facebook link">
-    Facebook
+    
   </a>
 )
 const emailLink = (
-  <a href="mailto:john@doe.com" alt="email link">
+  <a href="mailto:titiba473@gmail.com.com" alt="email link">
     Email
   </a>
 )
@@ -50,10 +50,10 @@ const Footer = () => (
             </List>
           </Grid.Column>
           <Grid.Column width={7}>
-            <Header as="h4">Footer Header</Header>
+            <Header as="h4">Footer ELAIR SERVICE</Header>
             <p>
-              Extra space for a call to action inside the footer that could help
-              re-engage users.
+              PROJET E-COMMERCE CONSTRUIT PAR ELAIR SERVICE.
+ 
             </p>
             <List horizontal style={{display: 'flex'}}>
               <List.Item
